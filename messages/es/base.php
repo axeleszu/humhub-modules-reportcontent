@@ -17,8 +17,8 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Why do you want to report this post?' => '',
-    'created by :displayName' => '',
+    'Why do you want to report this post?' => '¿Por qué quiere reportar esta publicación?',
+    'created by :displayName' => 'creado por :displayName',
     'Manage <strong>reported posts</strong>' => 'Administrar <strong>entradas reportadas</strong>',
     'Reported posts' => 'Entradas reportadas',
     'by :displayName' => 'por :displayName',
