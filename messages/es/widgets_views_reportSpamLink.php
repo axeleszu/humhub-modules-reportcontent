@@ -17,10 +17,10 @@
  * NOTE: this file must be saved in UTF-8 encoding.
  */
 return [
-    'Does not belong to this space' => '',
-    'Help Us Understand What\'s Happening' => '',
-    'It\'s offensive' => '',
-    'It\'s spam' => '',
-    'Report post' => '',
-    'Submit' => '',
+    'Does not belong to this space' => 'No pertenece a este espacio',
+    'Help Us Understand What\'s Happening' => '¿Qué es lo que sucede?',
+    'It\'s offensive' => 'Es ofensivo',
+    'It\'s spam' => 'Es contenido basura',
+    'Report post' => 'Reportar publicación',
+    'Submit' => 'Enviar',
 ];
